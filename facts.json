@@ -1,0 +1,122 @@
+[
+    {
+        "animal": "Elephant",
+        "fact": "Elephants are the largest land animals on Earth."
+    },
+    {
+        "animal": "Giraffe",
+        "fact": "Giraffes have the longest necks of any animal, which helps them reach leaves high in trees."
+    },
+    {
+        "animal": "Dolphin",
+        "fact": "Dolphins are highly intelligent and are known for their playful behavior."
+    },
+    {
+        "animal": "Penguin",
+        "fact": "Penguins are flightless birds that live mostly in the Southern Hemisphere."
+    },
+    {
+        "animal": "Kangaroo",
+        "fact": "Kangaroos can travel at speeds of up to 35 miles per hour."
+    },
+    {
+        "animal": "Panda",
+        "fact": "Giant pandas spend most of their time eating bamboo."
+    },
+    {
+        "animal": "Sloth",
+        "fact": "Sloths are known for their slow movement and spend most of their time hanging upside down in trees."
+    },
+    {
+        "animal": "Tiger",
+        "fact": "Tigers are the largest species of the cat family and are known for their powerful build."
+    },
+    {
+        "animal": "Owl",
+        "fact": "Owls have excellent night vision and are skilled hunters."
+    },
+    {
+        "animal": "Octopus",
+        "fact": "Octopuses have three hearts and blue blood."
+    },
+    {
+        "animal": "Koala",
+        "fact": "Koalas sleep for up to 18 hours a day."
+    },
+    {
+        "animal": "Hummingbird",
+        "fact": "Hummingbirds can flap their wings up to 80 times per second."
+    },
+    {
+        "animal": "Polar Bear",
+        "fact": "Polar bears have black skin underneath their white fur to absorb heat from the sun."
+    },
+    {
+        "animal": "Cheetah",
+        "fact": "Cheetahs are the fastest land animals, capable of running at speeds up to 70 miles per hour."
+    },
+    {
+        "animal": "Platypus",
+        "fact": "Platypuses are one of the few mammals that lay eggs."
+    },
+    {
+        "animal": "Whale Shark",
+        "fact": "Whale sharks are the largest fish in the ocean, reaching lengths of up to 40 feet."
+    },
+    {
+        "animal": "Chameleon",
+        "fact": "Chameleons can change color to blend in with their surroundings."
+    },
+    {
+        "animal": "Armadillo",
+        "fact": "Armadillos are the only mammals with hard, protective shells."
+    },
+    {
+        "animal": "Kangaroo Rat",
+        "fact": "Kangaroo rats can go their entire lives without drinking water, getting moisture from the seeds they eat."
+    },
+    {
+        "animal": "Bat",
+        "fact": "Bats are the only mammals capable of sustained flight."
+    },
+    {
+        "animal": "Jellyfish",
+        "fact": "Some species of jellyfish are immortal and can revert to their juvenile form after reaching maturity."
+    },
+    {
+        "animal": "Red Panda",
+        "fact": "Red pandas have a false thumb, an extended wrist bone that helps them grip bamboo."
+    },
+    {
+        "animal": "Narwhal",
+        "fact": "Narwhals are known for their long, spiral tusks, which are actually elongated teeth."
+    },
+    {
+        "animal": "Sea Turtle",
+        "fact": "Sea turtles can live to be over 100 years old."
+    },
+    {
+        "animal": "Lynx",
+        "fact": "Lynxes have large, padded paws that act like snowshoes to help them walk on snow."
+    },
+    {
+        "animal": "Meerkat",
+        "fact": "Meerkats live in large social groups and take turns watching for predators."
+    },
+    {
+        "animal": "Beaver",
+        "fact": "Beavers are known for building dams and lodges in rivers and streams."
+    },
+    {
+        "animal": "Gorilla",
+        "fact": "Gorillas share about 98% of their DNA with humans."
+    },
+    {
+        "animal": "Fennec Fox",
+        "fact": "Fennec foxes have large ears that help them dissipate heat and locate prey underground."
+    },
+    {
+        "animal": "Manatee",
+        "fact": "Manatees, also known as sea cows, are gentle herbivores that graze on underwater plants."
+    }
+]
